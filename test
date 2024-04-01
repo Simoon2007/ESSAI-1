@@ -1,0 +1,18 @@
+!DOCTYPE html>
+<html>
+<head>
+ <title>La personalité/ star préférée de </title><!--changer le titre de l'onglet-->
+ <link rel="stylesheet"
+href="style.css">
+</head>
+
+<body>
+<style>
+div.a {
+    text-align: center;
+} <!--code pour centrer les éléments sur la page lorsqu'ils sont entre les balises <div.a> et </div>-->
+</style>
+
+<div cllassa="a"> <!--balise du debut du centrage des éléments-->
+
+<h1><center>nom de la personalité /star</center></h1> <!--titre à changer -->
